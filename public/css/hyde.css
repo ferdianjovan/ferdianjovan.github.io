@@ -78,6 +78,8 @@ html {
 /* Sidebar Social links */
 .social-links {
   margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .social-links a {
