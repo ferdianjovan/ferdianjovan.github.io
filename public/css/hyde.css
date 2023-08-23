@@ -75,12 +75,30 @@ html {
   color: #fff;
 }
 
+/* Sidebar Social links */
+.social-links {
+  margin-top: 30px;
+}
+
+.social-links a {
+  font-size: 24px;
+  display: inline-block;
+  color: #45505b;
+  line-height: 1;
+  margin-right: 20px;
+  transition: 0.3s;
+}
+
+.social-links a:hover {
+  color: #0563bb;
+}
+
 /* About section */
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-size: 2.5rem;
 }
 
 /* Sidebar nav */
