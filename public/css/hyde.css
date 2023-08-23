@@ -78,8 +78,8 @@ html {
 /* Sidebar Social links */
 .social-links {
   margin-top: 30px;
-  margin-left: auto;
-  margin-right: auto;
+  display: flex;
+  justify-content: center;
 }
 
 .social-links a {
@@ -200,7 +200,7 @@ a.sidebar-nav-item:focus {
 
 /* Torquise */
 .theme-base-07 .sidebar {
-  background-color: #00c8ff;
+  background-color: #1da0c4;
 }
 .theme-base-07 .content a,
 .theme-base-07 .related-posts li a:hover {
