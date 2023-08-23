@@ -196,13 +196,13 @@ a.sidebar-nav-item:focus {
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
-/* Black */
+/* Torquise */
 .theme-base-07 .sidebar {
-  background-color: #333336;
+  background-color: #00c8ff;
 }
 .theme-base-07 .content a,
 .theme-base-07 .related-posts li a:hover {
-  color: #535580;
+  color: #1da0c4;
 }
 
 /* Red */
