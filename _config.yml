@@ -7,16 +7,16 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Ferdian Jovan
+tagline:          'My Personal Website'
+description:      'Assistant Professor of <a href="https://www.abdn.ac.uk/ncs/" target="_blank">School of Computing and Natural Sciences</a>, <a href="https://www.abdn.ac.uk/" target="_blank">University of Aberdeen</a>'
+url:              https://ferdianjovan.github.io
 baseurl:          /
 
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Ferdian Jovan'
+  url:            https://linkedin.com/in/ferdian-jovan/
 
 plugins:          [jekyll-paginate, jekyll-gists]
 paginate:         5
@@ -25,4 +25,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/ferdianjovan/
