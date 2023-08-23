@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Ferdian Jovan
 tagline:          'A Researcher in Aberdeen'
-description:      'Assistant Professor of <a href="https://www.abdn.ac.uk/ncs/" target="_blank">School of Computing and Natural Sciences</a>, <a href="https://www.abdn.ac.uk/" target="_blank">University of Aberdeen</a>'
+description:      'Assistant Professor, <a href="https://www.abdn.ac.uk/ncs/" target="_blank">School of Computing and Natural Sciences</a>, <a href="https://www.abdn.ac.uk/" target="_blank">University of Aberdeen</a>'
 url:              https://ferdianjovan.github.io
 baseurl:          /
 
