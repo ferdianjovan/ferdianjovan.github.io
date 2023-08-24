@@ -9,7 +9,7 @@ The site was built using [Hyde](https://github.com/poole/hyde), a theme for [Jek
 - Fork the [Hyde](https://github.com/poole/hyde) theme;
 - Edit the ```_config.yml``` by changing ```relative_permalinks: true``` to ```relative_permalinks: false```, and add ```plugins: [jekyll-paginate, jekyll-gists]``` to the ```_config.yml```;
 - Edit [head.html](https://github.com/poole/hyde/blob/master/_includes/head.html) and change each occurrence of ```{{ site.baseurl }}``` to ```{{ "/" | relative_url }}```;
-- Follow the [Creating your site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site) steps to enable github generate your site and which branch is used.
+- Follow the [Creating your site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site) steps to enable github generate your site and which branch to use.
 
 ## Testing Locally
 
