@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Ferdian Jovan
 tagline:          'A Researcher in Aberdeen'
-description:      'Assistant Professor, <a href="https://www.abdn.ac.uk/ncs/" target="_blank">School of Computing and Natural Sciences</a>, <a href="https://www.abdn.ac.uk/" target="_blank">University of Aberdeen</a>'
+description:      'Assistant Professor, <a href="https://www.abdn.ac.uk/ncs/" target="_blank">School of Natural and Computing Sciences</a>, <a href="https://www.abdn.ac.uk/" target="_blank">University of Aberdeen</a>'
 url:              https://ferdianjovan.github.io
 baseurl:          /
 
@@ -18,7 +18,7 @@ author:
   name:           'Ferdian Jovan'
   url:            https://linkedin.com/in/ferdian-jovan/
 
-plugins:          [jekyll-paginate, jekyll-gists]
+plugins:          [jekyll-paginate, jekyll-gist]
 paginate:         5
 
 # Custom vars
