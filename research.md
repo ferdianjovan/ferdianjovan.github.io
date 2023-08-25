@@ -33,7 +33,7 @@ Prometheus is a £2m project funded by Innovate UK and industry and focuses on b
 
 ### <a href="http://strands.acin.tuwien.ac.at/">STRANDS</a>
 
-<img style="float: left; padding: 3px 5px 0px 0px;" src="http://strands.acin.tuwien.ac.at/images/Toomas_Lobby3.jpg" width="400" />
+<img style="float: left; padding: 3px 5px 0px 0px;" src="{{ '/' | relative_url }}public/strands.jpg" width="400" />
 STRANDS will produce intelligent mobile robots that are able to run for months in dynamic human environments. The project aims to provide robots with the longevity and behavioural robustness necessary to make them truly useful assistants in a wide range of domains. Such long-lived robots will be able to learn from a wider range of experiences than has previously been possible, creating a whole new generation of autonomous systems able to extract and exploit the structure in their worlds. In this project, I was responsible in creating statistical models that can capture reliably and summarize the aggregate human occupancy behaviour through various data streams. The models were used to drive task planning technology towards prioritising tasks that maximise robot learning and human-robot interactions.
 
 

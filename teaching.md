@@ -24,6 +24,6 @@ During my time as a research fellow, I assisted lecturers to deliver some course
 Here are some of the talks where I was invited as a guest lecturer in universities.
 
 
-<img style="float: left; padding: 3px 10px 0px 0px;" src="https://blog-edutore-partner.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2020/05/02095224/Logo_UPH.gif" width="60" /> [AI FOR MEDICAL ASSISTIVE SYSTEM] (https://www.uph.edu/en/event/ai-for-medical-assistive-system/) <br> Universitas Pelita Harapan in May 2023.
+<img style="float: left; padding: 3px 10px 0px 0px;" src="https://blog-edutore-partner.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2020/05/02095224/Logo_UPH.gif" width="60" /> [AI FOR MEDICAL ASSISTIVE SYSTEM](https://www.uph.edu/en/event/ai-for-medical-assistive-system/) <br> Universitas Pelita Harapan in May 2023.
 
 <img style="float: left; padding: 8px 5px 0px 0px;" src="https://logosave.com/images/large/9/Universitas-Diponegoro-logo.png" width=63 /> [Indoor Localisation for measuring the Progression of Parkinson's Disease in Smart homes Activity](https://if.fsm.undip.ac.id/en/berita/visiting-professor-indoor-localisation-for-measuring-the-progression-of-parkinsons-disease-in-smart-homes) <br> Universitas Diponegoro in June 2022
