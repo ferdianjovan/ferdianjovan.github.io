@@ -69,11 +69,11 @@ During my time as a research fellow, I assisted lecturers to deliver some course
 
 Here are some of the talks where I was invited as a guest lecturer in universities.
 
-<img style="float: left; padding: 8px 5px 0px 0px;" src="https://unair.ac.id/wp-content/uploads/2021/02/unair-logo-borderFX.png" width=63 /> The Use of Generative AI for Research <br> Universitas Airlangga in December 2025.
+<img style="float: left; padding: 8px 5px 0px 0px;" src="https://unair.ac.id/wp-content/uploads/2021/02/unair-logo-borderFX.png" width=60 /> The Use of Generative AI for Research <br> Universitas Airlangga in December 2025.
 
-<img style="float: left; padding: 3px 10px 0px 0px;" src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_422,q_65,w_1440/v1/clients/icca-redesign/FIP_Logo_CMYK_e2d91a5f-6240-41ac-89ac-10aae8e883b8.jpg" width="63" /> [Demystifying AI- Foundations and Opportunities](https://events.fip.org/the-promise-of-ai-in-pharmacy-practice/?event=1345) <br> International Pharmacy Federation in September 2025.
+<img style="float: left; padding: 3px 10px 0px 0px;" src="https://tse4.mm.bing.net/th/id/OIP.2qObl6sknqkNvPGeLM3KqgHaEh?rs=1&pid=ImgDetMain&o=7&rm=3" width="66" /> [Demystifying AI- Foundations and Opportunities](https://events.fip.org/the-promise-of-ai-in-pharmacy-practice/?event=1345) <br> International Pharmacy Federation in September 2025.
 
-<img style="float: left; padding: 8px 5px 0px 0px;" src="https://cdn.imgbin.com/19/4/19/imgbin-binus-university-logo-school-bachelor-s-degree-school-Yn7VJ3cnsp86axnR4VXze2uS5.jpg" width=63 /> Providing Care with AI and Assistive Technology <br> Bina Nusantara University in April 2024.
+<img style="float: left; padding: 8px 5px 0px 0px;" src="https://tse2.mm.bing.net/th/id/OIP.BWJKFobmt9ntAs5sa1zVgwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width=66 /> Providing Care with AI and Assistive Technology <br> Bina Nusantara University in April 2024.
 
 <img style="float: left; padding: 3px 10px 0px 0px;" src="https://blog-edutore-partner.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2020/05/02095224/Logo_UPH.gif" width="60" /> [AI FOR MEDICAL ASSISTIVE SYSTEM](https://www.uph.edu/en/event/ai-for-medical-assistive-system/) <br> Universitas Pelita Harapan in May 2023.
 
