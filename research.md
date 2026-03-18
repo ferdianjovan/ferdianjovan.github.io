@@ -9,9 +9,9 @@ My research focuses on utilising machine learning techniques to extract insightf
 
 ### AI Navigation Framework for UAV
 I am currently working in collaboration with [KV Hephaestus Defence Ltd](https://find-and-update.company-information.service.gov.uk/company/SC849110). The project can be summarised in one sentence as: 
-<br>
+<br><br>
 "This project will develop a foundational navigation framework for UAV, tested in a simulated environment to support and be integrated with intelligent environmental monitoring and early warning systems for fire prevention and ecosystem protection"
-<br>
+<br><br>
 This six-month project will deliver a validated simulation environment for KV's UAV, benchmarked baseline navigation/SLAM performance, and a structured feasibility-and-risk assessment of candidate sensing modalities (including their limitations and implications for future sensor-fusion). 
 These outputs will be packaged as the technical evidence base for subsequent grant proposals, which will extend the work from single-UAV autonomy to coordinated multi-drone operations and real-time decision-making informed by both onboard UAV sensing and complementary inputs from distributed environmental sensor stations.
 
