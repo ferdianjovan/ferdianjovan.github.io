@@ -3,13 +3,59 @@ layout: page
 title: Teaching
 ---
 
-<p class="message">
-  I currently have no teaching responsibilities. I will update this page once I have course(s) to teach.
-</p>
+## Languages and Computability
+
+I lecture the following topics at the Department of Computer Science (Institute of Data Science and AI) at University of Aberdeen.
+
+* Finite-state Automata, Regular Expressions
+* Context-free Languages, Push-down Automata
+* Context-sensitive Languages, Linear-bounded Automata
+* Chomsky's hierarchy, Turing machines, Church-Turing thesis
+* Decidability, Countability and Undecidability
+* Time Complexity, P, NP, and NP-Completeness
+
+This course is taught in the first term for Year 3 Computer Science students.
+
+## Knowledge Representations
+
+I lecture the following topics at the Department of Computer Science (Institute of Data Science and AI) at University of Aberdeen.
+
+* First Order Logic, Resolution, Horn Clauses, and Prolog
+* Description Logic, ALC Logic, Taxonomy, ABox and TBox
+* Situational Calculus, Classical Planning, and PDDL
+* Answer Set Programming
+
+This KR course is taught in the first term for Year 4 Computer Science students.
+
+## Principles and Practice of Database Systems
+
+I lecture the following topics at the Department of Computer Science (Institute of Data Science and AI) at University of Aberdeen.
+
+* Database Design and Data Models
+* Relational Models, SQL, and Normalisation
+* Query and Transaction Management, Indexing, and Triggers
+* Spatial Database, NoSQL, MongoDB, and XML
+* Data Warehouse and Introduction to Data Mining
+
+This database course is taught in the second term for Year 2 Computer Science students.
+
+## Algorithm Design and Analysis
+
+I lecture the following topics at the Department of Computer Science (Institute of Data Science and AI) at University of Aberdeen.
+
+* Algorithm specification and correctness
+* Algorithmic complexity
+* Data structures
+* Sorting
+* Graph algorithms
+* Dynamic programming
+* Advanced search
+
+This algorithm course is taught in the second term for Year 2 Computer Science students.
 
 ## Supervisions
 
-I am currently involved in co-supervising Ph.D students at University of Bristol with [Dr. Ryan McConville](https://ryanmcconville.com/).
+I involved in co-supervising Dr. Thanaphon Suwannaphong (completed in 2025) with [Dr. Ryan McConville](https://ryanmcconville.com/) at University of Bristol.
 
 ## Old Courses
 
@@ -23,7 +69,13 @@ During my time as a research fellow, I assisted lecturers to deliver some course
 
 Here are some of the talks where I was invited as a guest lecturer in universities.
 
+<img style="float: left; padding: 8px 5px 0px 0px;" src="https://unair.ac.id/wp-content/uploads/2021/02/unair-logo-borderFX.png" width=63 /> The Use of Generative AI for Research <br> Universitas Airlangga in December 2025.
+
+<img style="float: left; padding: 3px 10px 0px 0px;" src="https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_422,q_65,w_1440/v1/clients/icca-redesign/FIP_Logo_CMYK_e2d91a5f-6240-41ac-89ac-10aae8e883b8.jpg" width="63" /> [Demystifying AI- Foundations and Opportunities](https://events.fip.org/the-promise-of-ai-in-pharmacy-practice/?event=1345) <br> International Pharmacy Federation in September 2025.
+
+<img style="float: left; padding: 8px 5px 0px 0px;" src="https://cdn.imgbin.com/19/4/19/imgbin-binus-university-logo-school-bachelor-s-degree-school-Yn7VJ3cnsp86axnR4VXze2uS5.jpg" width=63 /> Providing Care with AI and Assistive Technology <br> Bina Nusantara University in April 2024.
 
 <img style="float: left; padding: 3px 10px 0px 0px;" src="https://blog-edutore-partner.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2020/05/02095224/Logo_UPH.gif" width="60" /> [AI FOR MEDICAL ASSISTIVE SYSTEM](https://www.uph.edu/en/event/ai-for-medical-assistive-system/) <br> Universitas Pelita Harapan in May 2023.
 
-<img style="float: left; padding: 8px 5px 0px 0px;" src="https://logosave.com/images/large/9/Universitas-Diponegoro-logo.png" width=63 /> [Indoor Localisation for measuring the Progression of Parkinson's Disease in Smart homes Activity](https://if.fsm.undip.ac.id/en/berita/visiting-professor-indoor-localisation-for-measuring-the-progression-of-parkinsons-disease-in-smart-homes) <br> Universitas Diponegoro in June 2022
+<img style="float: left; padding: 8px 5px 0px 0px;" src="https://images.seeklogo.com/logo-png/22/3/universitas-diponegoro-logo-png_seeklogo-221900.png" width=63 /> [Indoor Localisation for measuring the Progression of Parkinson's Disease in Smart homes Activity](https://if.fsm.undip.ac.id/en/berita/visiting-professor-indoor-localisation-for-measuring-the-progression-of-parkinsons-disease-in-smart-homes) <br> Universitas Diponegoro in June 2022.
+
