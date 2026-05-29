@@ -69,7 +69,7 @@ During my time as a research fellow, I assisted lecturers to deliver some course
 
 Here are some of the talks where I was invited as a guest lecturer in universities.
 
-<img style="float: left; padding: 8px 5px 0px 0px;" src="https://1000logos.net/wp-content/uploads/2019/03/IEEE-symbol.jpg" width=81 /> [Robotics Under Constraints](https://events.vtools.ieee.org/m/559409) <br> IEEE Vehicular Technology Society (VTS) UK & Ireland.
+<img style="float: left; padding: 8px 5px 0px 0px;" src="https://1000logos.net/wp-content/uploads/2019/03/IEEE-symbol.jpg" width=81 /> [Robotics Under Constraints](https://www.youtube.com/watch?v=0tqCyWvDZfg) <br> IEEE Vehicular Technology Society (VTS) UK & Ireland.
 
 <img style="float: left; padding: 8px 5px 0px 0px;" src="https://unair.ac.id/wp-content/uploads/2021/02/unair-logo-borderFX.png" width=51 /> The Use of Generative AI for Research <br> Universitas Airlangga in December 2025.
 
